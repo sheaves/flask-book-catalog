@@ -1,0 +1,9 @@
+
+# Default ignored files
+/workspace.xml
+
+# Ignore folder
+/.idea/*
+/flaskenv/*
+**/__pycache__/
+*.pyc
